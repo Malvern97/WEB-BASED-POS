@@ -1,2 +1,2 @@
-# POS
-POS  system by ATA
+# WEB BASED POS
+POS(point of sale)  system by ATA
